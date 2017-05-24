@@ -1,0 +1,24 @@
+{
+  "name": "conta-palavras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contaTotalPalavras.js",
+  "dependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriolippert/contaPalavras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriolippert/contaPalavras/issues"
+  },
+  "homepage": "https://github.com/rogeriolippert/contaPalavras#readme"
+}
